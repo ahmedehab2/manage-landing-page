@@ -4,7 +4,7 @@ This is a solution to the [Manage landing page challenge on Frontend Mentor](htt
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://ahmedehab2.github.io/manage-landing-page/)
+- Live Site URL: [Here](https://ahmedehab2.github.io/manage-landing-page/)
 
 ### Built with
 
