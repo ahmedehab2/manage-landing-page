@@ -1,0 +1,22 @@
+{
+  "name": "manage-landing-page",
+  "version": "1.0.0",
+  "description": "![Design preview for the Manage landing page coding challenge]",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontendmentorio/manage-landing-page.git"
+  },
+  "author": "ahmed ehab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontendmentorio/manage-landing-page/issues"
+  },
+  "homepage": "https://github.com/frontendmentorio/manage-landing-page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.5"
+  }
+}
